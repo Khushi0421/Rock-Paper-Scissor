@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    background-color: rgb(12, 12, 76);
+    color: white;
+    text-align: center;
+    height: 60px;
+    line-height: 3rem;
+}
